@@ -1,0 +1,3 @@
+displayName = Tank Summoner
+author = JLight
+version = 0.2

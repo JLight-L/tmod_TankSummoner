@@ -1,0 +1,22 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	LittleTank: {
+		DisplayName: 小小坦克
+		Tooltip:
+			'''
+			每个坦克都会为你增加适量的防御
+			“创作者的第一个作品
+			能跑就已经很好了”
+			'''
+	}
+}
+
+Buffs: {
+	LittleTankBuff: {
+		DisplayName: Little Tank Buff
+		Description: 你的坦克怎么会飞？？？
+	}
+}
+
+Projectiles.LittleTankMinion.DisplayName: Little Tank Minion
